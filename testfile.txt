@@ -1,3 +1,7 @@
 Introduction
 
 Hello, welcome to Git!
+
+
+
+Git is a pretty useful tool.  It has a lot of flexibility for different workflows.
